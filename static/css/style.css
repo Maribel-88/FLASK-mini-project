@@ -2,8 +2,14 @@
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
+.nav-wrapper {
+    flex-direction: row;
+    justify-content:center;
+}
+
 .flashes h4 {
     line-height: 2;
+    
 }
 
 .btn-small {
