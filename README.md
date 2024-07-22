@@ -55,3 +55,17 @@ The manage categories page displays all available categories which the users act
 
 <div align="center"><img width="941" alt="Manage Categories" src="https://github.com/user-attachments/assets/5b54c532-2cc2-43d3-bdc6-fd2611f39423">
 </div>
+
+---
+ ## UX/UI Section
+ ### Site Goal
+Our To Do List application aims to help users to organize their schedule. 
+
+ #### Customers should be able:
+ - Register and login to the web application.
+ - Add, Update, Edit, Delete information according to their needs.
+ - Enjoy using the application.
+ 
+#### As website Administrator should be able to:
+- Add and delete categories.
+
