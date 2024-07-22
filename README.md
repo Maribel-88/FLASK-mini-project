@@ -69,3 +69,20 @@ Our To Do List application aims to help users to organize their schedule.
 #### As website Administrator should be able to:
 - Add and delete categories.
 
+
+## Writing the Testing Section
+
+### Validator testing
+
+- CSS
+    - No errors were found using the W3C CSS Validator
+
+      
+  <div align="center"><img width="700" alt="w3C validation" src="https://github.com/user-attachments/assets/147317de-8ada-44ab-8f02-158c6d64da0c"></div>
+
+- Website performance
+    - Has used the Lighthouse to check the website performance
+      
+      <div align="center"><img width="700" alt="Lighthoust_task Test" src="https://github.com/user-attachments/assets/163eec05-87f6-4600-b193-1da6a0d03a36">
+</div>
+     
